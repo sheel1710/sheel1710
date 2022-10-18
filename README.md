@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1710&label=Profile%20views&color=0e75b6&style=flat" alt="s1710" /> </p>
 
-- 🔭 I’m currently working on **AWS**
-
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [sheelsachania.vercel.app](sheelsachania.vercel.app)
