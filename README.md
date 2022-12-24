@@ -9,6 +9,8 @@
 
 - 📝 I regularly write articles on [https://medium.com/@itssheel134](https://medium.com/@itssheel134)
 
+- 📝 I regularly write articles on https://sheel.hashnode.dev/
+
 - 💬 Ask me about **DevOps, Python, Git**
 
 - 📫 How to reach me **itssheel134@gmail.com**
