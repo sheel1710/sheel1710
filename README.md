@@ -33,7 +33,7 @@
 - #### [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/public_profiles/d53c9f42-05a9-4c1c-838f-32b11bbd80ff/badges/3037605)
 - #### [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/public_profiles/d53c9f42-05a9-4c1c-838f-32b11bbd80ff/badges/3039011)
 
-- ## All My Badges are Available at [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52)
+- ## All My Badges are Available at [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/d53c9f42-05a9-4c1c-838f-32b11bbd80ff)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
