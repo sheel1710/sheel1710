@@ -22,6 +22,19 @@
 
 <br />
 
+# ☁️ Badges from Google Cloud [OFFICIAL]
+
+- #### [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/public_profiles/d53c9f42-05a9-4c1c-838f-32b11bbd80ff/badges/2974428)
+- #### [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.cloudskillsboost.google/public_profiles/d53c9f42-05a9-4c1c-838f-32b11bbd80ff/badges/3021510)
+- #### [Set Up and Configure a Cloud Environment in Google Cloud](https://www.cloudskillsboost.google/public_profiles/d53c9f42-05a9-4c1c-838f-32b11bbd80ff/badges/3027205)
+- #### [Preparing for Your Associate Cloud Engineer Journey](https://www.cloudskillsboost.google/public_profiles/d53c9f42-05a9-4c1c-838f-32b11bbd80ff/badges/2996736)
+- #### [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/public_profiles/d53c9f42-05a9-4c1c-838f-32b11bbd80ff/badges/3033579) 
+- #### [Essential Google Cloud Infrastructure: Foundation](https://www.cloudskillsboost.google/public_profiles/d53c9f42-05a9-4c1c-838f-32b11bbd80ff/badges/3032472)
+- #### [Essential Google Cloud Infrastructure: Core Services](https://www.cloudskillsboost.google/public_profiles/d53c9f42-05a9-4c1c-838f-32b11bbd80ff/badges/3037605)
+- #### [Getting Started with Google Kubernetes Engine](https://www.cloudskillsboost.google/public_profiles/d53c9f42-05a9-4c1c-838f-32b11bbd80ff/badges/3039011)
+
+- ## All My Badges are Available at [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/6f17af93-6db3-4bdf-a087-c510e295db52)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sheel-sachania-2910bb180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheel-sachania-2910bb180/" height="30" width="40" /></a>
